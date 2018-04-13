@@ -1,0 +1,9 @@
+com\bmw\microservicespring1\config\SwaggerConfig.class
+com\bmw\microservicespring1\service\ProductionOrderRepository.class
+com\bmw\microservicespring1\service\ProductionOrderServiceImpl.class
+com\bmw\microservicespring1\controller\ProductionOrderController.class
+com\bmw\microservicespring1\ProductionOrderApp.class
+com\bmw\microservicespring1\data\ProductionOrder.class
+com\bmw\microservicespring1\service\BaseService.class
+com\bmw\microservicespring1\service\ProductionOrderService.class
+com\bmw\microservicespring1\data\base\BaseEntity.class
