@@ -69,7 +69,7 @@ Actions:
         #- Run: cp settings.xml $HOME/.m2/settings.xml
         #- Run: ls $HOME/.m2/
         #- Run: export CODEARTIFACT_AUTH_TOKEN=`aws codeartifact get-authorization-token --domain artifact-store-demo --domain-owner 123456789012 --region us-east-1 --query authorizationToken --output text`
-        - Run: mvn build
+        - Run: mvn compile
     #Compute:
     #  Type: EC2
     #Environment:
